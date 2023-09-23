@@ -4,15 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Me
+I'm a Java developer with a passion for building robust and scalable software solutions. With almost a decade of hands-on experience, I've honed my skills in various technologies, including Spring, Spring Boot, AWS, and microservices architecture.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+**Java**: My bread and butter, I wield Java to yield efficient and maintainable code.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**Spring Framework**: Proficient in Spring, Spring Boot, and microservices architecture.
 
+**AWS**: AWS certified Solutions Architect - Associate
 
-[jekyll-organization]: https://github.com/jekyll
+**Product Development**: I have a knack for transforming conceptual visions into tangible products
+
+**Results-Oriented**: I'm dedicated to delivering high-quality software, adhering to best practices, and continual improvement.
+
+# How I Work:
+
+I believe in making code clean and simple, following the best practices, and always striving to do better. My aim is to create software that not only meets expectations but stand the test of time.
+
+# Let's Chat!
+
+Whether you have a tech challenge, a brilliant idea, or just want to connect, reach out!
+
+Let's have a chat.
