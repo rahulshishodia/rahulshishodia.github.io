@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![1659018025703.jpeg](https://images.weserv.nl/?url=https://cdn.hashnode.com/res/hashnode/image/upload/v1693725113296/Dwl5KAOlM.jpeg?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d align="left")
+
 # About Me
 I'm a Java developer with a passion for building robust and scalable software solutions. With almost a decade of hands-on experience, I've honed my skills in various technologies, including Spring, Spring Boot, AWS, and microservices architecture.
 
